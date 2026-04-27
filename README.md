@@ -1,6 +1,7 @@
 # TP Java Pipeline — Jenkins & Maven
 
-> **Auteur :** Niema El Malki | SMI0157/24
+> **Auteur :** Niema El Malki    
+> **Num. Inscription:** SMI0157/25    
 > **Dépôt :** [TPJavaPipeLine-Niema_El_Malki](https://github.com/niemaelmalki/TPJavaPipeLine-Niema_El_Malki)  
 > **Forké depuis :** [simoks/java-maven-ensi](https://github.com/simoks/java-maven-ensi)
 
