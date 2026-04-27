@@ -47,5 +47,12 @@ La solution adoptée a été de relancer le conteneur Jenkins en montant explici
 l'option -v /var/run/docker.sock:/var/run/docker.sock.
 <img width="1184" height="327" alt="image" src="https://github.com/user-attachments/assets/e5f5c19b-bc20-4153-8037-5f517dda315b" />
 
+ 2eme Problème permission denied while trying to connect to the docker API at unix:///var/run/docker.sock
+<img width="1919" height="518" alt="image" src="https://github.com/user-attachments/assets/2116d61a-a4b3-40c5-a932-b8aba9e48ed2" />
 
+<img width="1909" height="681" alt="image" src="https://github.com/user-attachments/assets/dfb56460-38f9-4916-b1a8-15796a1c6143" />
+cree un compte dans ngrok 
+<img width="1919" height="896" alt="image" src="https://github.com/user-attachments/assets/2fb5687c-8ad1-47b0-bf6a-db3185c68cba" />
+recuper un domain pour https://localhost:8080
+<img width="1689" height="815" alt="image" src="https://github.com/user-attachments/assets/98faed24-828e-4b1e-9a6e-44941ee0cc78" />
 
